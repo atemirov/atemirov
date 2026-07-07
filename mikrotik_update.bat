@@ -6,9 +6,9 @@ setlocal EnableDelayedExpansion
 
 :: ==================== КОНФИГУРАЦИЯ ====================
 set MIKROTIK_HOST=192.168.1.1
-set MIKROTIK_USER=atemirov
-set MIKROTIK_PASSWORD=Djqnb{jxe_2021
-set LIST_NAME=rkn
+set MIKROTIK_USER=
+set MIKROTIK_PASSWORD=
+set LIST_NAME=
 
 :: Пути к файлам
 set SCRIPT_DIR=G:\mikrotik\update_ip_lists\
